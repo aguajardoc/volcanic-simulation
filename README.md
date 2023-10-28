@@ -1,5 +1,5 @@
-MATLAB app that simulates the projectile motion of volcanic rock expelled from a volcano based on the model of air resistance proportional to the square of the velocity, 
-assuming the projectiles are spheres with a drag coefficient of 0.5. 
+MATLAB app that graphically simulates the projectile motion of volcanic rock expelled from a volcano based on the model of air resistance proportional to the square of 
+the velocity, assuming the projectiles are spheres with a drag coefficient of 0.5. 
 The default values correspond to conditions present at the peak of the Popocatépetl in Mexico; code is commented to reflect sources for said values.
 
 The following values can be changed accordingly to suit users' needs:
