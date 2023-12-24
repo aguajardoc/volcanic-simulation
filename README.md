@@ -43,3 +43,6 @@ Although both files contain the same code, only the mlapp file can execute the c
 ### 4. Open the .mlapp file on the left side of the App Designer
 ### 5. Press F5 to run
 ### 6. Play with the app's features ;)
+
+## Note 
+The code.m file allows visualization of the code without downloading the .mlapp file
